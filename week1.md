@@ -2,6 +2,11 @@
 
 ## Introduction
 
+Introduce the deployment resource and link to container management.
+
+**Learning Objectives**
+
+- Use Kubernetes container management capabilities to deploy containerized applications in a declarative way.
 ### Course Introduction:
 
 **Summary:**
