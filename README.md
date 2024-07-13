@@ -1,33 +1,43 @@
-# Managing Cloud-native Applications with Kubernetes (DO100b)
+**Cloud-Native Development with OpenShift and Kubernetes Specialization**
 
-Welcome to the repository for the course "Managing Cloud-native Applications with Kubernetes." Here, you'll find all the notes and necessary files related to the course content.
+**Overview:**
+Welcome to the repository for the **Cloud-Native Development with OpenShift and Kubernetes Specialization**. Here, you'll find notes, resources, and solutions for hands-on exercises across the three-course series offered by Red Hat.
 
-## Course Overview
+**Specialization Summary:**
+This specialization focuses on containerized applications, covering foundational concepts and practical skills in Kubernetes and Red Hat OpenShift Container Platform (RHOCP) as orchestration tools.
 
-This course is designed for IT professionals who want to learn basic Kubernetes skills. Whether you're new to cloud application deployment or looking to enhance your existing knowledge, this course will equip you with essential skills for managing containerized applications.
+**What You'll Learn:**
+- Gain a deep understanding of containerized applications.
+- Develop, deploy, scale, and troubleshoot applications on Kubernetes and OpenShift.
 
-### What You'll Learn
+**Skills You'll Gain:**
+- **RHOCP**
+- **OpenShift**
+- **Cloud Computing**
+- **Kubernetes**
+- **Containers**
 
-Throughout this course, you'll explore the following topics:
+**Courses in the Specialization:**
 
-1. **Deploying Managed Applications:**
-   - Introduction to deployment resources
-   - Linking deployment with container management
+**1. Foundations of Red Hat Cloud-native Development**
+- **Key Learnings:**
+  - Basic Kubernetes skills
+  - Deploying and testing applications with zero-downtime releases
 
-2. **Configuring Networking in Kubernetes:**
-   - Enabling communication between Kubernetes applications and the external world
+**2. Managing Cloud-native Applications with Kubernetes**
+- **Key Learnings:**
+  - Deploying applications using Kubernetes
+  - Managing intra-pod network communications and application secrets
 
-3. **Customizing Deployments for Application Requirements:**
-   - Advanced container management features
+**3. Advanced Application Management with Red Hat OpenShift**
+- **Key Learnings:**
+  - Deploying applications to OpenShift
+  - Containerizing source code, scaling deployments, and troubleshooting issues
 
-4. **Implementing Cloud Deployment Strategies:**
-   - Comparison of different cloud deployment strategies
+**Applied Learning Project:**
+Each course includes detailed hands-on exercises to reinforce concepts. By completing this specialization, you'll master the skills needed to develop, deploy, scale, and troubleshoot containerized applications on Kubernetes and OpenShift.
 
-## About the Course
-
-- **Course Name:** Managing Cloud-native Applications with Kubernetes (DO100b)
-- **Prerequisites:** No previous cloud application deployment experience required
-- **Specialization:** This course is the second part of a three-course specialization.
-- **Zero-Downtime Releases:** You'll learn how to run, deploy, and test containerized applications without downtime.
-
-Feel free to explore the modules and dive into the exciting world of Kubernetes! 🚀
+**Repository Structure:**
+- **Foundations_of_Red_Hat_Cloud_native_Development:** Notes and exercises for the first course.
+- **Managing_Cloud_native_Applications_with_Kubernetes:** Notes and exercises for the second course.
+- **Advanced_Application_Management_with_Red_Hat_OpenShift:** Notes and exercises for the third course.
